@@ -13,7 +13,7 @@
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/jasperhax0r/TandyCoCoKeyboard/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/jasperhax0r/TandyCoCoKeyboard/network/members
@@ -26,3 +26,4 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/jasper-johnson-922b7330/
 [product-screenshot]: images/3dview.png
+ -->
